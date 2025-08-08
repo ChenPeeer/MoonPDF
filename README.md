@@ -1,6 +1,6 @@
 <!-- 介绍 -->
 <div align="center">
-    <img src="./icons/icon.png" />
+    <img src="./icons/icon64.png" />
     <h1>MoonPDF</h1>
     <h3>A PDF editor using GTK</h3>
 </div>
